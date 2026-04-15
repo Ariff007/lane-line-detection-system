@@ -14,3 +14,10 @@ The system processes input frames from a video or image, applies a series of ima
 - Region of Interest (ROI) masking
 - Line detection using Hough Transform
 - Overlay of detected lane lines on original frames
+
+## 🛠️ Tech Stack
+
+- Python
+- OpenCV
+- NumPy
+- Matplotlib (for visualization/debugging)
