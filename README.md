@@ -21,3 +21,13 @@ The system processes input frames from a video or image, applies a series of ima
 - OpenCV
 - NumPy
 - Matplotlib (for visualization/debugging)
+
+## 🚀 How It Works
+
+- Convert image to grayscale
+- Apply Gaussian blur to reduce noise
+- Detect edges using Canny Edge Detection
+- Mask the region of interest (focus on road area)
+- Detect lines using Hough Transform
+- Average and extrapolate lane lines
+- Overlay detected lanes onto the original frame
