@@ -31,3 +31,10 @@ The system processes input frames from a video or image, applies a series of ima
 - Detect lines using Hough Transform
 - Average and extrapolate lane lines
 - Overlay detected lanes onto the original frame
+
+## 📂 Use Cases
+
+- Autonomous driving research
+- Driver assistance systems (ADAS)
+- Computer vision learning projects
+- Real-time video processing applications
