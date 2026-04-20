@@ -38,3 +38,7 @@ The system processes input frames from a video or image, applies a series of ima
 - Driver assistance systems (ADAS)
 - Computer vision learning projects
 - Real-time video processing applications
+
+## 📸 Output
+
+The final output displays lane lines clearly marked on the road, helping visualize driving direction and boundaries.
