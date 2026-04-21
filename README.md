@@ -42,3 +42,10 @@ The system processes input frames from a video or image, applies a series of ima
 ## 📸 Output
 
 The final output displays lane lines clearly marked on the road, helping visualize driving direction and boundaries.
+
+## 📈 Future Improvements
+
+- Curved lane detection
+- Lane departure warning system
+- Integration with deep learning models (e.g., CNNs)
+- Better performance in low-light and complex road conditions
