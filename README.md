@@ -49,3 +49,7 @@ The final output displays lane lines clearly marked on the road, helping visuali
 - Lane departure warning system
 - Integration with deep learning models (e.g., CNNs)
 - Better performance in low-light and complex road conditions
+
+## 📄 License
+
+This project is licensed under the MIT License
